@@ -3,6 +3,7 @@ import ImageUploader from './Image';
 function Ok(){
     return(
         <div>
+            ok
             <ImageUploader/>
         </div>
     )
